@@ -235,3 +235,4 @@ Machine Learning
 Interview Definition
 
 Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data and improve their performance on a task without being explicitly programmed. Depending on the availability of labeled data and the learning objective, machine learning is broadly classified into Supervised Learning, Unsupervised Learning, Semi-Supervised Learning, and Reinforcement Learning.
+iy vl fgdrt6rgvd
